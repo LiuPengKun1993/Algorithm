@@ -18,3 +18,9 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 [008 验证回文串](https://github.com/liuzhongning/Algorithm/blob/master/008%20验证回文串.md)
 
 [009 两数之和](https://github.com/liuzhongning/Algorithm/blob/master/009%20两数之和.md)
+
+
+
+# License
+
+This repositorie is released under the under [MIT License](https://github.com/liuzhongning/Algorithm/blob/master/LICENSE)
