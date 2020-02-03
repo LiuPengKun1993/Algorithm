@@ -19,6 +19,11 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 
 [009 两数之和](https://github.com/liuzhongning/Algorithm/blob/master/009%20两数之和.md)
 
+[010 整数翻转](https://github.com/liuzhongning/Algorithm/blob/master/010%20整数翻转.md)
+
+[011 只出现一次的数字](https://github.com/liuzhongning/Algorithm/blob/master/011%20只出现一次的数字.md)
+
+
 
 
 # License
