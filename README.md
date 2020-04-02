@@ -16,6 +16,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 | 两数之和 | [两数之和](https://github.com/liuzhongning/Algorithm/blob/master/009%20两数之和.md) | easy |
 | 整数翻转 | [整数翻转](https://github.com/liuzhongning/Algorithm/blob/master/010%20整数翻转.md) | easy |
 | 只出现一次的数字 | [只出现一次的数字](https://github.com/liuzhongning/Algorithm/blob/master/011%20只出现一次的数字.md) | easy |
+| 两数相加 | [两数相加](https://github.com/liuzhongning/Algorithm/blob/master/012%20两数相加.md) | medium |
+
 
 
 # License
