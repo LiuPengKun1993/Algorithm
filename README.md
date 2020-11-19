@@ -22,6 +22,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |15| 删除排序数组中的重复项 | [删除排序数组中的重复项](https://github.com/liuzhongning/Algorithm/blob/master/015%20删除排序数组中的重复项.md) | easy |
 |16| 买卖股票的最佳时机 I | [买卖股票的最佳时机 I](https://github.com/liuzhongning/Algorithm/blob/master/016%20买卖股票的最佳时机%20I.md) | easy |
 |17| 买卖股票的最佳时机 II | [买卖股票的最佳时机 II](https://github.com/liuzhongning/Algorithm/blob/master/017%20买卖股票的最佳时机%20II.md) | easy |
+|18| 旋转数组 | [旋转数组](https://github.com/liuzhongning/Algorithm/blob/master/018%20旋转数组.md) | easy |
+|19| 存在重复元素 | [存在重复元素](https://github.com/liuzhongning/Algorithm/blob/master/019%20存在重复元素.md) | easy |
 
 
 # License
