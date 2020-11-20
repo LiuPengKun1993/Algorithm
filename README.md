@@ -24,6 +24,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |17| 买卖股票的最佳时机 II | [买卖股票的最佳时机 II](https://github.com/liuzhongning/Algorithm/blob/master/017%20买卖股票的最佳时机%20II.md) | easy |
 |18| 旋转数组 | [旋转数组](https://github.com/liuzhongning/Algorithm/blob/master/018%20旋转数组.md) | easy |
 |19| 存在重复元素 | [存在重复元素](https://github.com/liuzhongning/Algorithm/blob/master/019%20存在重复元素.md) | easy |
+|20| 两个数组的交集 II | [两个数组的交集 II](https://github.com/liuzhongning/Algorithm/blob/master/020%20两个数组的交集%20II.md) | easy |
+|21| 加一 | [加一](https://github.com/liuzhongning/Algorithm/blob/master/021%20加一.md) | easy |
 
 
 # License
