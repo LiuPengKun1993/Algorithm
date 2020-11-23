@@ -28,6 +28,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |21| 加一 | [加一](https://github.com/liuzhongning/Algorithm/blob/master/021%20加一.md) | easy |
 |22| 移动零| [移动零](https://github.com/liuzhongning/Algorithm/blob/master/022%20移动零.md) | easy |
 |23| 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/liuzhongning/Algorithm/blob/master/023%20无重复字符的最长子串.md) | easy |
+|24| 字符串的排列 | [字符串的排列](https://github.com/liuzhongning/Algorithm/blob/master/024%20字符串的排列.md) | medium |
+|25| 字符串相乘 | [字符串相乘](https://github.com/liuzhongning/Algorithm/blob/master/025%20字符串相乘.md) | medium |
 
 
 # License
