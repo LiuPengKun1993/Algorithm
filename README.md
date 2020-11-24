@@ -30,7 +30,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |23| 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/liuzhongning/Algorithm/blob/master/023%20无重复字符的最长子串.md) | easy |
 |24| 字符串的排列 | [字符串的排列](https://github.com/liuzhongning/Algorithm/blob/master/024%20字符串的排列.md) | medium |
 |25| 字符串相乘 | [字符串相乘](https://github.com/liuzhongning/Algorithm/blob/master/025%20字符串相乘.md) | medium |
-
+|26| 翻转字符串里的单词 | [翻转字符串里的单词](https://github.com/liuzhongning/Algorithm/blob/master/026%20翻转字符串里的单词.md) | medium |
+|27| 简化路径 | [简化路径](https://github.com/liuzhongning/Algorithm/blob/master/027%20简化路径.md) | medium |
 
 # License
 
