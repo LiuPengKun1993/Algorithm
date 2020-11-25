@@ -32,6 +32,9 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |25| 字符串相乘 | [字符串相乘](https://github.com/liuzhongning/Algorithm/blob/master/025%20字符串相乘.md) | medium |
 |26| 翻转字符串里的单词 | [翻转字符串里的单词](https://github.com/liuzhongning/Algorithm/blob/master/026%20翻转字符串里的单词.md) | medium |
 |27| 简化路径 | [简化路径](https://github.com/liuzhongning/Algorithm/blob/master/027%20简化路径.md) | medium |
+|28| 爬楼梯 | [爬楼梯](https://github.com/liuzhongning/Algorithm/blob/master/028%20爬楼梯.md) | easy |
+|29| 三数之和 | [三数之和](https://github.com/liuzhongning/Algorithm/blob/master/029%20三数之和.md) | medium |
+|30| 岛屿的最大面积 | [岛屿的最大面积](https://github.com/liuzhongning/Algorithm/blob/master/030%20岛屿的最大面积.md) | medium |
 
 # License
 
