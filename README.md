@@ -36,6 +36,9 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |29| 三数之和 | [三数之和](https://github.com/liuzhongning/Algorithm/blob/master/029%20三数之和.md) | medium |
 |30| 岛屿的最大面积 | [岛屿的最大面积](https://github.com/liuzhongning/Algorithm/blob/master/030%20岛屿的最大面积.md) | medium |
 |31| 搜索旋转排序数组 | [搜索旋转排序数组](https://github.com/liuzhongning/Algorithm/blob/master/031%20搜索旋转排序数组.md) | medium |
+|32| 最长连续递增序列 | [最长连续递增序列](https://github.com/liuzhongning/Algorithm/blob/master/032%20最长连续递增序列.md) | easy |
+|33| 数组中的第K个最大元素 | [数组中的第K个最大元素](https://github.com/liuzhongning/Algorithm/blob/master/033%20数组中的第K个最大元素.md) | medium |
+|34| 最长连续序列 | [最长连续序列](https://github.com/liuzhongning/Algorithm/blob/master/034%20最长连续序列.md) | Hard |
 
 
 # License
