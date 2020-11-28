@@ -39,6 +39,11 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |32| 最长连续递增序列 | [最长连续递增序列](https://github.com/liuzhongning/Algorithm/blob/master/032%20最长连续递增序列.md) | easy |
 |33| 数组中的第K个最大元素 | [数组中的第K个最大元素](https://github.com/liuzhongning/Algorithm/blob/master/033%20数组中的第K个最大元素.md) | medium |
 |34| 最长连续序列 | [最长连续序列](https://github.com/liuzhongning/Algorithm/blob/master/034%20最长连续序列.md) | Hard |
+|35| 排列序列 | [排列序列](https://github.com/liuzhongning/Algorithm/blob/master/035%20排列序列.md) | Hard |
+|36| 朋友圈 | [朋友圈](https://github.com/liuzhongning/Algorithm/blob/master/036%20朋友圈.md) | medium |
+|37| 合并区间 | [合并区间](https://github.com/liuzhongning/Algorithm/blob/master/037%20合并区间.md) | medium |
+|38| 接雨水 | [接雨水](https://github.com/liuzhongning/Algorithm/blob/master/038%20接雨水.md) | Hard |
+|39| 合并两个有序链表 | [合并两个有序链表](https://github.com/liuzhongning/Algorithm/blob/master/039%20合并两个有序链表.md) | easy |
 
 
 # License
