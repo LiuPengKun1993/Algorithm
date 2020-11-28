@@ -44,6 +44,7 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |37| 合并区间 | [合并区间](https://github.com/liuzhongning/Algorithm/blob/master/037%20合并区间.md) | medium |
 |38| 接雨水 | [接雨水](https://github.com/liuzhongning/Algorithm/blob/master/038%20接雨水.md) | Hard |
 |39| 合并两个有序链表 | [合并两个有序链表](https://github.com/liuzhongning/Algorithm/blob/master/039%20合并两个有序链表.md) | easy |
+|40| 反转链表 | [反转链表](https://github.com/liuzhongning/Algorithm/blob/master/040%20反转链表.md) | easy |
 
 
 # License
