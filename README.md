@@ -45,6 +45,12 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |38| 接雨水 | [接雨水](https://github.com/liuzhongning/Algorithm/blob/master/038%20接雨水.md) | Hard |
 |39| 合并两个有序链表 | [合并两个有序链表](https://github.com/liuzhongning/Algorithm/blob/master/039%20合并两个有序链表.md) | easy |
 |40| 反转链表 | [反转链表](https://github.com/liuzhongning/Algorithm/blob/master/040%20反转链表.md) | easy |
+|41| 最大正方形 | [最大正方形](https://github.com/liuzhongning/Algorithm/blob/master/041%20最大正方形.md) | medium |
+|42| 最大子序和 | [最大子序和](https://github.com/liuzhongning/Algorithm/blob/master/042%20最大子序和.md) | easy |
+|43| 三角形最小路径和 | [三角形最小路径和](https://github.com/liuzhongning/Algorithm/blob/master/043%20三角形最小路径和.md) | medium |
+|44| 最小栈 | [最小栈](https://github.com/liuzhongning/Algorithm/blob/master/044%20最小栈.md) | easy |
+
+
 
 
 # License
