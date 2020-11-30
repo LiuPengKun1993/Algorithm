@@ -49,6 +49,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |42| 最大子序和 | [最大子序和](https://github.com/liuzhongning/Algorithm/blob/master/042%20最大子序和.md) | easy |
 |43| 三角形最小路径和 | [三角形最小路径和](https://github.com/liuzhongning/Algorithm/blob/master/043%20三角形最小路径和.md) | medium |
 |44| 最小栈 | [最小栈](https://github.com/liuzhongning/Algorithm/blob/master/044%20最小栈.md) | easy |
+|45| x 的平方根 | [x 的平方根](https://github.com/liuzhongning/Algorithm/blob/master/045%20x%20的平方根.md) | easy |
+|46| 第二高的薪水 | [第二高的薪水](https://github.com/liuzhongning/Algorithm/blob/master/046%20第二高的薪水.md) | easy |
 
 
 
