@@ -51,6 +51,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |44| 最小栈 | [最小栈](https://github.com/liuzhongning/Algorithm/blob/master/044%20最小栈.md) | easy |
 |45| x 的平方根 | [x 的平方根](https://github.com/liuzhongning/Algorithm/blob/master/045%20x%20的平方根.md) | easy |
 |46| 第二高的薪水 | [第二高的薪水](https://github.com/liuzhongning/Algorithm/blob/master/046%20第二高的薪水.md) | easy |
+|47| 求众数 II | [求众数 II](https://github.com/liuzhongning/Algorithm/blob/master/047%20求众数%20II.md) | easy |
+|48| 反转字符串 | [反转字符串](https://github.com/liuzhongning/Algorithm/blob/master/048%20反转字符串.md) | easy |
 
 
 
