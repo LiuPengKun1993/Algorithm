@@ -53,6 +53,8 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |46| 第二高的薪水 | [第二高的薪水](https://github.com/liuzhongning/Algorithm/blob/master/046%20第二高的薪水.md) | easy |
 |47| 求众数 II | [求众数 II](https://github.com/liuzhongning/Algorithm/blob/master/047%20求众数%20II.md) | easy |
 |48| 反转字符串 | [反转字符串](https://github.com/liuzhongning/Algorithm/blob/master/048%20反转字符串.md) | easy |
+|49| 字符串中的第一个唯一字符 | [字符串中的第一个唯一字符](https://github.com/liuzhongning/Algorithm/blob/master/049%20字符串中的第一个唯一字符.md) | easy |
+|50| 有效的字母异位词 | [有效的字母异位词](https://github.com/liuzhongning/Algorithm/blob/master/050%20有效的字母异位词.md) | easy |
 
 
 
