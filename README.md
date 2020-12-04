@@ -57,6 +57,7 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |50| 有效的字母异位词 | [有效的字母异位词](https://github.com/liuzhongning/Algorithm/blob/master/050%20有效的字母异位词.md) | easy |
 |51| 二叉树的最大深度 | [二叉树的最大深度](https://github.com/liuzhongning/Algorithm/blob/master/051%20二叉树的最大深度.md) | easy |
 |52| 对称二叉树 | [对称二叉树](https://github.com/liuzhongning/Algorithm/blob/master/052%20对称二叉树.md) | easy |
+|53| 合并两个有序数组 | [合并两个有序数组](https://github.com/liuzhongning/Algorithm/blob/master/053%20合并两个有序数组.md) | easy |
 
 
 
