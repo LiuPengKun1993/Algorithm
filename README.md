@@ -64,6 +64,7 @@ LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法�
 |57| 二叉树的中序遍历 | [二叉树的中序遍历](https://github.com/LiuPengKun1993/Algorithm/blob/master/057%20二叉树的中序遍历.md) | easy |
 |58| 二叉树的后序遍历 | [二叉树的后序遍历](https://github.com/LiuPengKun1993/Algorithm/blob/master/058%20二叉树的后序遍历.md) | easy |
 |59| 路径总和 | [路径总和](https://github.com/LiuPengKun1993/Algorithm/blob/master/059%20路径总和.md) | easy |
+|60| 斐波那契数 | [斐波那契数](https://github.com/LiuPengKun1993/Algorithm/blob/master/060%20斐波那契数.md) | easy |
 
 
 
